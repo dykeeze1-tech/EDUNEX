@@ -1,0 +1,8 @@
+{
+  "name": "EDUNEXA",
+  "description": "The Next Generation of Learning — International learning, examination, assessment, and academic community platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
